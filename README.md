@@ -1,11 +1,4 @@
 # edX Exam Management System
-.. image:: https://img.shields.io/travis/WeJie/edx-exam-management-system/master.svg
-   :target: https://travis-ci.org/WeJie/edx-exam-management-system
-   :alt: Build Status
-
-[Build Status](https://travis-ci.org/WeJie/edx-exam-management-system.svg?branch=master)
-[!Build Status](https://travis-ci.org/WeJie/edx-exam-management-system)
-[[Build Status](https://travis-ci.org/WeJie/edx-exam-management-system.svg?branch=master)](https://travis-ci.org/WeJie/edx-exam-management-system)
 [![Build Status](https://travis-ci.org/WeJie/edx-exam-management-system.svg?branch=master)](https://travis-ci.org/WeJie/edx-exam-management-system)
 
 
